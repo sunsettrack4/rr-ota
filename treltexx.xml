@@ -2,7 +2,7 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  	<Stable>
  		<treltexx>
- 			<Filename>ResurrectionRemix-M-v5.6.3-20160211-treltexx.zip</Filename>
+ 			<Filename>ResurrectionRemix-M-v5.6.3-20160210-treltexx.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Rom"
