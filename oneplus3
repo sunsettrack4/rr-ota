@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <!-- Your ROM Name -->
+  <RomName>ResurrectionRemix v5.7.1 (CM)</RomName>
+  <VersionName>CyanogenMod Weeklies</VersionName>
+  <VersionNumber type="integer">20160723</VersionNumber>
+  <DirectUrl>empty</DirectUrl>
+  <HttpUrl nil="true />
+  <Android>6.0.1</Android>
+  <CheckMD5>empty</CheckMD5>
+  <CheckMD5 nil="true" />
+  <FileSize type="integer">empty</FileSize>
+  <!-- Developer or Team name. You can put anything here, even a couple of names -->
+  <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
+  <Developer>Jan-Luca Neumann, Naman Bhalla, Domenic Schaller</Developer>
+  <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
+  <DonateURL>https://paypal.me/sunsettrack4</DonateURL>
+  <Changelog>### Changelog 20150723
+* Initial Release
+  </Changelog>
+</ROM>
