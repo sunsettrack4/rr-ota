@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <!-- Your ROM Name -->
   <RomName>ResurrectionRemix v5.7.1 (CM)</RomName>
   <VersionName>CyanogenMod Weeklies</VersionName>
   <VersionNumber type="integer">20160723</VersionNumber>
-  <DirectUrl>empty</DirectUrl>
+  <DirectUrl><![CDATA[https://zqrakg-bn1306.files.1drv.com/y3mDWfFAzIgrPh78y6DqRaT551qKQiEhZTLjD2wdHQHz4srV7wswYdFcHrjpzCjdTw80vsRdTgyhWjwyWU8CrDEkAtnrxKXZL0XqGm0UH0rtE6z8tghyUyxnE_l7L7WOv2etb6a5coEJop2naHPyTG46YIyyUYw_rHy8Cc5_m7Hd90/ResurrectionRemix-M-v5.7.1-20160723-oneplus3-CM-sunsettrack4.zip?download&psid=1]]></DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>empty</CheckMD5>
+  <CheckMD5>9b30b6350231eeebbcfef234e31687ea</CheckMD5>
   <CheckMD5 nil="true" />
-  <FileSize type="integer">empty</FileSize>
+  <FileSize type="integer">559371472</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>https://paypal.me/sunsettrack4</DonateURL>
