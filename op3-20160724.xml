@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>ResurrectionRemix v5.7.1 (CM)</RomName>
-  <VersionName>CyanogenMod Weeklies</VersionName>
-  <VersionNumber type="integer">20160724</VersionNumber>
-  <DirectUrl><![CDATA[https://doc-0k-bc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/0d659o4a6mj0d310hjjv05fueskek92s/1469347200000/14622572428452532564/*/0B0Ofimk-4prjNGtUa20tWVM3d1k?e=download]]></DirectUrl>
-  <HttpUrl nil="true" />
+  <RomName>ResurrectionRemix v5.7.1 Official</RomName>
+  <VersionName>RR-v5.7.1-20160730</VersionName>
+  <VersionNumber type="integer">20160730</VersionNumber>
+  <DirectUrl nil="true" />
+  <HttpUrl>https://www.androidfilehost.com/?fid=24591000424951017</HttpUrl>
   <Android>6.0.1</Android>
-  <CheckMD5>9b30b6350231eeebbcfef234e31687ea</CheckMD5>
-  <FileSize type="integer">559371472</FileSize>
+  <CheckMD5>99d9c09193baccb321108bdc0ece5610</CheckMD5>
+  <FileSize type="integer">559645880</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>https://paypal.me/sunsettrack4</DonateURL>
-  <Changelog>### Changelog 20150723
-* Initial Release
+  <Changelog>### Changelog 20150730
+* Add support for Dash Charge
+* Update sRGB features (accessible in kernel auditor)
+* New OTA Updates app offers MD5 Check, direct downloads and OpenRecovery script
+* Several updates from CM and RR (2016/07/30 9AM CEST)  
   </Changelog>
 </ROM>
