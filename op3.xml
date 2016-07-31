@@ -18,8 +18,6 @@
 * Several updates from CM and RR (2016/07/30 9AM CEST)
 * Use CM kernel by default - EX kernel can be found in addons menu.  
   </Changelog>
-  <AddonCount>2</AddonCount>
-  <AddonsURL>
-  https://raw.githubusercontent.com/sunsettrack4/rr-ota/master/addons.xml
-  </AddonsURL>
 </ROM>
+<AddonCount>2</AddonCount>
+<AddonsURL>https://raw.githubusercontent.com/sunsettrack4/rr-ota/master/addons.xml</AddonsURL>

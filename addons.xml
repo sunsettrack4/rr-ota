@@ -7,9 +7,7 @@
             <description>Download the latest GApps package for your device</description>
             <updated-at>2016-07-31</updated-at>
             <size>83760000</size>
-            <download-link>
-            http://opengapps.org
-            </download-link>
+            <download-link>http://opengapps.org</download-link>
         </addon>
         <addon>
             <id>2</id>
@@ -17,9 +15,7 @@
             <description>Get additional kernel tweaks for optimized performance and battery life</description>
             <updated-at>2016-07-31</updated-at>
             <size>14022597</size>
-            <download-link>
-            http://elementalx.org/devices/oneplus-3
-            </download-link>
+            <download-link>http://elementalx.org/devices/oneplus-3</download-link>
         </addon>
     </addons>
 </hash>
