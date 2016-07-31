@@ -3,8 +3,8 @@
   <RomName>rr-oneplus3</RomName>
   <VersionName>RR-v5.7.1-20160730</VersionName>
   <VersionNumber type="integer">20160730</VersionNumber>
-  <DirectUrl nil="true" />
-  <HttpUrl>https://www.androidfilehost.com/?fid=24591000424951017</HttpUrl>
+  <DirectUrl>https://github.com/RR-OnePlus3/rr-releases/releases/download/v5.7.1-20160730/ResurrectionRemix-M-v5.7.1-20160730-oneplus3-sunsettrack4.zip</DirectUrl>
+  <HttpUrl nil="true" />
   <Android>6.0.1</Android>
   <CheckMD5>99d9c09193baccb321108bdc0ece5610</CheckMD5>
   <FileSize type="integer">559645880</FileSize>
@@ -18,7 +18,7 @@
 * Several updates from CM and RR (2016/07/30 9AM CEST)
 * Use CM kernel by default - EX kernel can be found in addons menu.  
   </Changelog>
-  <AddonCount>2</AddonCount>
+  <AddonCount>3</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/sunsettrack4/rr-ota/master/addons.xml</AddonsURL>
 </ROM>
 
