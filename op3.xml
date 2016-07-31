@@ -11,10 +11,13 @@
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>https://paypal.me/sunsettrack4</DonateURL>
-  <Changelog>### Changelog 20150730
+  <Changelog>### RR v5.7.1 20150730
 * Add support for Dash Charge
 * Update sRGB features (Live Display)
 * New OTA Updates app offers MD5 Check, direct downloads and OpenRecovery script
-* Several updates from CM and RR (2016/07/30 9AM CEST)  
+* Several updates from CM and RR (2016/07/30 9AM CEST)
+* Use CM kernel by default - EX kernel can be found in addons menu.  
   </Changelog>
+  <AddonCount>2</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/sunsettrack4/rr-ota/master/addons.xml</AddonsURL>
 </ROM>
