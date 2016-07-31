@@ -17,5 +17,13 @@
             <size>14022597</size>
             <download-link>https://www.dropbox.com/s/moq4lxiiyr87xxw/ElementalX-OP3-0.14-cm.zip?dl=1</download-link>
         </addon>
+        <addon>
+            <id>3</id>
+            <name>Xposed-v86</name>
+            <description>Get additional features by using Xposed framework and its modules</description>
+            <published-at>2016-07-08</published-at>
+            <size>8188734</size>
+            <download-link>http://dl-xda.xposed.info/framework/sdk23/arm64/xposed-v86-sdk23-arm64.zip</download-link>
+        </addon>
     </addons>
 </hash>
