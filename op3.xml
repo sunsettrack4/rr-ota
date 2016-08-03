@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.1-20160730</VersionName>
-  <VersionNumber type="integer">20160730</VersionNumber>
-  <DirectUrl>https://github.com/RR-OnePlus3/rr-releases/releases/download/v5.7.1-20160730/ResurrectionRemix-M-v5.7.1-20160730-oneplus3-sunsettrack4.zip</DirectUrl>
-  <HttpUrl nil="true" />
+  <VersionName>RR-v5.7.1-20160803-RR-EX</VersionName>
+  <VersionNumber type="integer">20160803</VersionNumber>
+  <DirectUrl nil="true" />
+  <HttpUrl>https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/oneplus3/ResurrectionRemix-M-v5.7.2-20160803-PUBLIC-rr-ex-oneplus3.zip</HttpUrl>
   <Android>6.0.1</Android>
-  <CheckMD5>99d9c09193baccb321108bdc0ece5610</CheckMD5>
-  <FileSize type="integer">559645880</FileSize>
+  <CheckMD5>71e782154e2ec06a09923e939232a135</CheckMD5>
+  <FileSize type="integer">562959483</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
-  <Changelog>### RR v5.7.1 20150730
+  <Changelog>### RR v5.7.2 20160803
+* Android v6.0.1_r61 - Security Patch Level: 5 August 2016
+* Use Resurrected-ElementalX kernel by default
+* Include several optimizations to improve battery life
+* Remove new OTA app temporary - it will be included in next build again
+  
+  ### RR v5.7.1 20160730
 * Add support for Dash Charge
 * Update sRGB features (Live Display)
 * New OTA Updates app offers MD5 Check, direct downloads and OpenRecovery script
