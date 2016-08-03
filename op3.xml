@@ -12,14 +12,14 @@
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
   <Changelog>### RR v5.7.2 20160803
-by Naman Bhalla
+* by Naman Bhalla
 * Android v6.0.1_r61 - Security Patch Level: 5 August 2016
 * Use Resurrected-ElementalX kernel by default
 * Include several optimizations to improve battery life
 * Remove new OTA app temporary - it will be included in next build again
   
 ### RR v5.7.1 20160730
-by sunsettrack4
+* by sunsettrack4
 * Add support for Dash Charge
 * Update sRGB features (Live Display)
 * New OTA Updates app offers MD5 Check, direct downloads and OpenRecovery script
