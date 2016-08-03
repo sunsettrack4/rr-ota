@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.1-20160803-RR-EX</VersionName>
+  <VersionName>RR-v5.7.2-20160803-RR-EX</VersionName>
   <VersionNumber type="integer">20160803</VersionNumber>
   <DirectUrl nil="true" />
   <HttpUrl>https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/oneplus3/ResurrectionRemix-M-v5.7.2-20160803-PUBLIC-rr-ex-oneplus3.zip</HttpUrl>
