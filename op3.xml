@@ -17,7 +17,7 @@
 * Include several optimizations to improve battery life
 * Remove new OTA app temporary - it will be included in next build again
   
-  ### RR v5.7.1 20160730
+### RR v5.7.1 20160730
 * Add support for Dash Charge
 * Update sRGB features (Live Display)
 * New OTA Updates app offers MD5 Check, direct downloads and OpenRecovery script
