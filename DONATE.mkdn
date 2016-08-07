@@ -1,9 +1,9 @@
 ResurrectionRemix for OnePlus 3
 ===============================
 
-Team Members
+Team Members (Donation Links)
 ------------
 
-### [Donate to Naman Bhalla](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XNA3H3BZRXX2W)
-### [Donate to Jan-Luca Neumann](https://paypal.me/sunsettrack4)
-### [Donate to Domenic Schaller](http://forum.xda-developers.com/donatetome.php?u=3400932)
+### [Naman Bhalla](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XNA3H3BZRXX2W)
+### [Jan-Luca Neumann (sunsettrack4)](https://paypal.me/sunsettrack4)
+### ![Taker18](http://cdn1.xda-developers.com/customavatars/avatar3400932_2.gif) [Domenic Schaller (Taker18)](http://forum.xda-developers.com/donatetome.php?u=3400932)
