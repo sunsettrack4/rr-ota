@@ -13,8 +13,10 @@
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
   <Changelog>### RR v5.7.3 20160807
 * Android 6.0.1 r61 - Security Patch Level: 5 August 2016
+* All changes from CM and RR - last updated: 2016/08/07 9PM CEST
 * Revert several SELinux commits to fix Bluetooth issues
-* Add new OTA app  
+* Add option to prevent wakeups via privacy guard
+* Add new OTA app (MD5 check, direct downloads, OpenRecovery script)
   </Changelog>
 </ROM>
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
