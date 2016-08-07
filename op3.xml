@@ -10,7 +10,7 @@
   <FileSize type="integer">562959483</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
-  <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
+  <DonateURL>https://github.com/sunsettrack4/rr-ota/blob/master/DONATE.mkdn</DonateURL>
   <Changelog>### RR v5.7.2 20160803
 * by Naman Bhalla
 * Android v6.0.1_r61 - Security Patch Level: 5 August 2016
