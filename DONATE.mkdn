@@ -5,5 +5,5 @@ Team Members (Donation Links)
 ------------
 
 ### ![Naman Bhalla](http://cdn1.xda-developers.com/customavatars/avatar5641921_3.gif)      [Naman Bhalla](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XNA3H3BZRXX2W)
-### ![sunsettrack4](http://cdn1.xda-developers.com/customavatars/avatar5623053_3.gif)      [Jan-Luca Neumann (sunsettrack4)](https://paypal.me/sunsettrack4)
-### ![Taker18](http://cdn1.xda-developers.com/customavatars/avatar3400932_2.gif)      [Domenic Schaller (Taker18)](http://forum.xda-developers.com/donatetome.php?u=3400932)
+### ![sunsettrack4](http://cdn1.xda-developers.com/customavatars/avatar5623053_3.gif)      [Jan-Luca Neumann](https://paypal.me/sunsettrack4)
+### ![Taker18](http://cdn1.xda-developers.com/customavatars/avatar3400932_2.gif)      [Domenic Schaller](http://forum.xda-developers.com/donatetome.php?u=3400932)
