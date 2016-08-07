@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
+ <ROM>
+  <RomName>rr-slte</RomName>
+  <VersionName>RR-v5.7.3-20160807</VersionName>
+  <VersionNumber type="integer">20160807</VersionNumber>
+  <DirectUrl nil="true" />
+  <HttpUrl>https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/oneplus3/ResurrectionRemix-M-v5.7.2-20160803-PUBLIC-rr-ex-oneplus3.zip</HttpUrl>
+  <Android>6.0.1</Android>
+  <CheckMD5>71e782154e2ec06a09923e939232a135</CheckMD5>
+  <FileSize type="integer">562959483</FileSize>
+  <Developer>sunsettrack4</Developer>
+  <WebsiteURL>http://forum.xda-developers.com/galaxy-alpha/development/rom-resurrectionremix-v5-6-0-t3277521</WebsiteURL>
+  <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
+  <Changelog>### RR v5.7.3 20160807
+* Android 6.0.1 r61 - Security Patch Level: 5 August 2016
+* Revert several SELinux commits to fix Bluetooth issues
+* Add new OTA app  
+  </Changelog>
+</ROM>
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  	<Stable>
  		<slte>
