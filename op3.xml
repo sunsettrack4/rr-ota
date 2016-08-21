@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.3-20160813-EX</VersionName>
-  <VersionNumber type="integer">20160813</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/PUBLIC/ResurrectionRemix-M-v5.7.3-20160813-PUBLIC-rr-ex-oneplus3.zip</DirectUrl>
+  <VersionName>RR-v5.7.3-20160821-CM</VersionName>
+  <VersionNumber type="integer">20160821</VersionNumber>
+  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/ResurrectionRemix-M-v5.7.3-20160821-PUBLIC-cm-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>946e518b56d2d5dc7b059ff4039c1480</CheckMD5>
-  <FileSize type="integer">564763033</FileSize>
+  <CheckMD5>bf86d0e3c9879ddcb78d413792eb6c1e</CheckMD5>
+  <FileSize type="integer">500358837</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>https://github.com/sunsettrack4/rr-ota/blob/master/DONATE.mkdn</DonateURL>
-  <Changelog>### RR v5.7.3 20160813
+  <Changelog>### RR v5.7.3 20160821-CM
+* by sunsettrack4
+* Upstream RR and CM changes
+* ROM built with GCC instead of Clang
+* Memory allocator + SQLite updated
+* Naman // Privacy Guard: Wake Up feature added, Doze optimizaions included
+* Several updates by arter97 included to improve battery life and performance
+* Use CM kernel by default - EX kernel can be found in addons menu.
+* PLEASE NOTE: Arter97's kernel does NOT work on this build.
+
+### RR v5.7.3 20160813-EX
 * by Naman Bhalla
 * Upstream RR and CM changes
 * Improved Doze a bit more so as to not make the time stop xD
 * Added Wake Up Privacy Guard option (Credits: arter97)
 * Fixed Setup Wizard FC (Credits: martinusbe) 
     
-### RR v5.7.2 20160803
+### RR v5.7.2 20160803-EX
 * by Naman Bhalla
 * Android v6.0.1_r61 - Security Patch Level: 5 August 2016
 * Use Resurrected-ElementalX kernel by default
 * Include several optimizations to improve battery life
 * Remove new OTA app temporary - it will be included in next build again
   
-### RR v5.7.1 20160730
+### RR v5.7.1 20160730-CM
 * by sunsettrack4
 * Add support for Dash Charge
 * Update sRGB features (Live Display)
