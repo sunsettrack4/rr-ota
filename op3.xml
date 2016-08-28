@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.3-20160821-CM</VersionName>
-  <VersionNumber type="integer">20160821</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/ResurrectionRemix-M-v5.7.3-20160821-PUBLIC-cm-oneplus3.zip</DirectUrl>
+  <VersionName>RR-v5.7.3-20160827-CM</VersionName>
+  <VersionNumber type="integer">20160827</VersionNumber>
+  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/ResurrectionRemix-M-v5.7.3-20160827-PUBLIC-cm-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>9586ecee9c9e1f740dea40195ab8061c</CheckMD5>
-  <FileSize type="integer">500359530</FileSize>
+  <CheckMD5>79a907937442c8dd893947b1a82d84a4</CheckMD5>
+  <FileSize type="integer">501523828</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
-  <DonateURL>https://github.com/sunsettrack4/rr-ota/blob/master/DONATE.mkdn</DonateURL>
-  <Changelog>### RR v5.7.3 20160821-CM
+  <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
+  <Changelog>### RR v5.7.3 20160827-CM
+* by sunsettrack4
+* Upstream RR and CM changes
+* Force enabled Optimizing Compiler and Optimize Everything filter for ART
+* Add misssing VoIP acdb device
+* Several updates provided by arter97 and sultanxda (view my github)
+
+### RR v5.7.3 20160821-CM
 * by sunsettrack4
 * Upstream RR and CM changes
 * ROM built with GCC instead of Clang
@@ -19,7 +26,6 @@
 * Naman // Privacy Guard: Wake Up feature added, Doze optimizaions included
 * Several updates by arter97 included to improve battery life and performance
 * Use CM kernel by default - EX kernel can be found in addons menu.
-* PLEASE NOTE: Arter97's kernel does NOT work on this build.
 
 ### RR v5.7.3 20160813-EX
 * by Naman Bhalla
