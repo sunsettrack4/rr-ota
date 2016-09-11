@@ -2,7 +2,7 @@
 <ROM>
   <RomName>rr-oneplus3</RomName>
   <VersionName>RR-v5.7.3-20160827-CM</VersionName>
-  <VersionNumber type="integer">20160910</VersionNumber>
+  <VersionNumber type="integer">20160827</VersionNumber>
   <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/ResurrectionRemix-M-v5.7.3-20160827-PUBLIC-cm-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
