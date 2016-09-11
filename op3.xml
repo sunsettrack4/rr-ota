@@ -3,7 +3,7 @@
   <RomName>rr-oneplus3</RomName>
   <VersionName>RR-v5.7.3-20160910</VersionName>
   <VersionNumber type="integer">20160910</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.3-20160910-TESTING-ex-oneplus3.zip</DirectUrl>
+  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.3-20160910-PUBLIC-ex-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
   <CheckMD5>2cd5eebf0a3fd6111a4cd469e2a6dd5a</CheckMD5>
@@ -17,7 +17,7 @@
 * Android v6.0.1_r66 - Security Patch Level: 6 September 2016
 * Latest EX kernel v0.27 included
 * ROM built with UBERTC 4.9
-* Compatible with OxygenOS Stock Camera Port by siankatabg (available in OTA addons menu)
+* Compatible with OxygenOS Stock Camera Port by siankatabg (available on XDA)
 * Stock CM version can be found in XDA thread OP
 
 ### RR v5.7.3 20160827-CM
