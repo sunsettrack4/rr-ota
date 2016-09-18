@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.3-20160910</VersionName>
-  <VersionNumber type="integer">20160910</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.3-20160910-PUBLIC-ex-oneplus3.zip</DirectUrl>
+  <VersionName>RR-v5.7.3-20160918</VersionName>
+  <VersionNumber type="integer">20160918</VersionNumber>
+  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.3-20160918-PUBLIC-ex-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>2cd5eebf0a3fd6111a4cd469e2a6dd5a</CheckMD5>
-  <FileSize type="integer">503665370</FileSize>
+  <CheckMD5>efb21a7375d4d014e11819c1b3be2309</CheckMD5>
+  <FileSize type="integer">505105296</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
-  <Changelog>### RR v5.7.3 20160910-EX
+  <Changelog>### RR v5.7.3 20160918-EX
+* by sunsettrack4
+* Upstream CM, RR and EX kernel updates
+* ElementalX + zzmoove governor added
+* zzmoove gov + zen io scheduler set to default
+* A new CM build with stock configuration can be found in XDA thread OP
+
+### RR v5.7.3 20160910-EX
 * by sunsettrack4
 * Upstream RR and CM changes
 * Android v6.0.1_r66 - Security Patch Level: 6 September 2016
