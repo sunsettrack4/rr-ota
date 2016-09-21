@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <ROM>
   <RomName>rr-slte</RomName>
-  <VersionName>RR-v5.7.3-20160808</VersionName>
-  <VersionNumber type="integer">20160808</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/slte/sunsettrack4/ResurrectionRemix-M-v5.7.3-20160808-slte.zip</DirectUrl>
+  <VersionName>RR-v5.7.4-20160921</VersionName>
+  <VersionNumber type="integer">20160920</VersionNumber>
+  <DirectUrl>http://androidfiles.namanbhalla.in/slte/sunsettrack4/ResurrectionRemix-M-v5.7.4-20160921-slte.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>bb17b8af7b43a33a5bb9147d36244ea5</CheckMD5>
-  <FileSize type="integer">303070585</FileSize>
+  <CheckMD5>389f63b925cf3d7c7ebe7bfc141c6cb6</CheckMD5>
+  <FileSize type="integer">319197020</FileSize>
   <Developer>sunsettrack4</Developer>
   <WebsiteURL>http://forum.xda-developers.com/galaxy-alpha/development/rom-resurrectionremix-v5-6-0-t3277521</WebsiteURL>
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
-  <Changelog>### RR v5.7.3 20160808
+  <Changelog>### "M" IS FINALIZED! RR "N" IS UNDER CONSTRUCTION... SEE YOU SOON ?!
+
+### RR v5.7.4 20160921
+* Android 6.0.1 r66 - Security Patch Level: 6 September 2016
+* All changes from CM and RR - last updated: 2016/09/20 9PM CEST
+* Add WakeUp blocker to Privacy Guard
+
+### RR v5.7.3 20160808
 * Android 6.0.1 r61 - Security Patch Level: 5 August 2016
 * All changes from CM and RR - last updated: 2016/08/07 9PM CEST
 * Revert several SELinux commits to fix Bluetooth issues
