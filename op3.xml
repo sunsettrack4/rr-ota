@@ -73,6 +73,6 @@
 * Use CM kernel by default - EX kernel can be found in addons menu.  
   </Changelog>
   <AddonCount>3</AddonCount>
-  <AddonsURL>https://raw.githubusercontent.com/sunsettrack4/rr-ota/master/addons.xml</AddonsURL>
+  <AddonsURL>https://raw.githubusercontent.com/sunsettrack4/rr-ota/master/op3-addons.xml</AddonsURL>
 </ROM>
 
