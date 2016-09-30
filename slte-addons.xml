@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Gello Browser</name>
+            <description>Download the new browser provided by CM</description>
+            <published-at>2016-05-24</published-at>
+            <size>62606660</size>
+            <download-link>https://www.dropbox.com/s/su1w4qcqtfyhzdq/org.cyanogenmod.gello.browser_42.0.2311.1179_%28c5cc6d7%29-23111179_minAPI22%28armeabi-v7a%29%28nodpi%29_apkmirror.com.apk?dl=1</download-link>
+        </addon>
+    </addons>
+</hash>
