@@ -5,9 +5,9 @@
             <id>1</id>
             <name>OpenGApps 6.0 ARM64 Mini</name>
             <description>Download the latest GApps package for your device</description>
-            <published-at>2016-09-30</published-at>
+            <published-at>2016-10-09</published-at>
             <size>303038464</size>
-            <download-link>https://github.com/opengapps/arm64/releases/download/20160930/open_gapps-arm64-6.0-mini-20160930.zip</download-link>
+            <download-link>https://github.com/opengapps/arm64/releases/download/20161009/open_gapps-arm64-6.0-mini-20161009.zip</download-link>
         </addon>
         <addon>
             <id>2</id>
