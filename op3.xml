@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.4-20160921</VersionName>
-  <VersionNumber type="integer">20160921</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.4-20160921-PUBLIC-ex-oneplus3.zip</DirectUrl>
+  <VersionName>RR-v5.7.4-20161008</VersionName>
+  <VersionNumber type="integer">20161008</VersionNumber>
+  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.4-20161008-PUBLIC-ex-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>f4ce78d188cbf94ed8d8248ff75e20e8</CheckMD5>
-  <FileSize type="integer">506189578</FileSize>
+  <CheckMD5>a10ee1fe98f648b1a09659ae29c2cb9a</CheckMD5>
+  <FileSize type="integer">504836915</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
   <Changelog>### "M" IS FINALIZED! RR "N" IS UNDER CONSTRUCTION... SEE YOU SOON?!
-  
+    
+### RR v5.7.4 20161008-EX
+* by sunsettrack4
+* Upstream CM + RR changes
+* Android v6.0.1_r72 - Security Patch Level: 5 October 2016
+* Latest EX kernel version 0.32+
+* New pocketmode app is included
+* The CM build can be found on BasketBuild. Please read the announcement notes in official XDA thread.
+    
 ### RR v5.7.4 20160921-EX
 * by sunsettrack4
 * Upstream CM + RR changes
-* Latest EX kernel version
+* Latest EX kernel version 0.30+
 * The CM build is available on BasketBuild.
 
 ### RR v5.7.3 20160918-EX
