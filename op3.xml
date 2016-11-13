@@ -15,8 +15,8 @@
 
 ### RR v5.7.4 20161113-EX
 * by sunsettrack4
-# * OnePlus 3 Firmware + Modem 3.5.5-CE required!
-# * Xposed Framework doesn't work due to latest security patches!
+* OnePlus 3 Firmware + Modem 3.5.5-CE required!
+* Xposed Framework doesn't work due to latest security patches!
 * Upstream CM + RR changes
 * Android v6.0.1_r74 - Security Patch Level: 5 November 2016
 * Fix for Dirty Cow Vulnerability included
