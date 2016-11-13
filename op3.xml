@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>rr-oneplus3</RomName>
-  <VersionName>RR-v5.7.4-20161008</VersionName>
-  <VersionNumber type="integer">20161008</VersionNumber>
-  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.4-20161008-PUBLIC-ex-oneplus3.zip</DirectUrl>
+  <VersionName>RR-v5.7.4-20161113</VersionName>
+  <VersionNumber type="integer">20161113</VersionNumber>
+  <DirectUrl>http://androidfiles.namanbhalla.in/oneplus3/rr/sunsettrack4/EX%2B/ResurrectionRemix-M-v5.7.4-20161113-PUBLIC-ex-oneplus3.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>6.0.1</Android>
-  <CheckMD5>a10ee1fe98f648b1a09659ae29c2cb9a</CheckMD5>
-  <FileSize type="integer">504836915</FileSize>
+  <CheckMD5>d2260e51f91932d3661e53ef7ebabc13</CheckMD5>
+  <FileSize type="integer">510789076</FileSize>
   <Developer>sunsettrack4, Naman Bhalla, Taker18</Developer>
   <WebsiteURL>http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</WebsiteURL>
   <DonateURL>http://paypal.me/sunsettrack4</DonateURL>
   <Changelog>### "M" IS FINALIZED! RR "N" IS UNDER CONSTRUCTION... SEE YOU SOON?!
+
+### RR v5.7.4 20161113-EX
+* by sunsettrack4
+# * OnePlus 3 Firmware + Modem 3.5.5-CE required!
+# * Xposed Framework doesn't work due to latest security patches!
+* Upstream CM + RR changes
+* Android v6.0.1_r74 - Security Patch Level: 5 November 2016
+* Fix for Dirty Cow Vulnerability included
+* Latest Ex kernel version 0.37+ / v3.8.44
+* Improved pocketmode version (by Lord Boeffla)
+* Fix the failed SafetyNet CTS check
+* Several improvements for system stability
+* The CM build is available on BasketBuild.
     
 ### RR v5.7.4 20161008-EX
 * by sunsettrack4
