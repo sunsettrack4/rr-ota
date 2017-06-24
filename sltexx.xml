@@ -2,11 +2,11 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  	<Stable>
  		<sltexx>
-            <Filename>RR-N-v5.8.3-20170623-sltexx-Weekly.zip</Filename>
+                <Filename>RR-N-v5.8.3-20170623-sltexx-Weekly.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Rom"
-                description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/RR-N-v5.8.3-20170623-sltexx-Weekly.zip/download</RomUrl>
+                                description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/RR-N-v5.8.3-20170623-sltexx-Weekly.zip/download</RomUrl>
  			<ChangelogUrl
  				id="changelog"
  				title="Changelog"
@@ -19,10 +19,10 @@
  				id="xda"
  				title="XDA"
  				description="View XDA thread">https://forum.xda-developers.com/galaxy-alpha/development/rom-resurrectionremix-os-v5-8-3-t3620910</XDAUrl>
-      <DonateURL
-        id="donate"
-        title="Donate"
-        description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
+      			<DonateURL
+        			id="donate"
+        			title="Donate"
+        			description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
  		</sltexx>
 	</Stable>
 </SlimOTA>
