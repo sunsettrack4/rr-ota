@@ -5,7 +5,7 @@
                         <Filename>RR-N-v5.8.3-20170706-sltexx-Official.zip</Filename>
  			<RomUrl
  				id="rom"
- 				title="Rom"
+ 				title="Official Update Cycle"
                                 description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/RR-N-v5.8.3-20170706-sltexx-Official.zip/download</RomUrl>
  			<ChangelogUrl
  				id="changelog"
@@ -25,4 +25,29 @@
         			description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
  		</sltexx>
 	</Stable>
+	<Weekly>
+ 		<sltexx>
+                        <Filename>RR-N-v5.8.3-20170706-sltexx-Official.zip</Filename>
+ 			<RomUrl
+ 				id="rom"
+ 				title="Weekly Update Cycle"
+                                description="Download latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/RR-N-v5.8.3-20170706-sltexx-Official.zip/download</RomUrl>
+ 			<ChangelogUrl
+ 				id="changelog"
+ 				title="Changelog"
+ 				description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+ 			<SlimGappsUrl
+ 				id="gapps"
+ 				title="GApps"
+ 				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
+ 			<XDAUrl
+ 				id="xda"
+ 				title="XDA"
+ 				description="View XDA thread">https://forum.xda-developers.com/galaxy-alpha/development/rom-resurrectionremix-os-v5-8-3-t3620910</XDAUrl>
+      			<DonateURL
+        			id="donate"
+        			title="Donate"
+        			description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
+ 		</sltexx>
+	</Weekly>
 </SlimOTA>
