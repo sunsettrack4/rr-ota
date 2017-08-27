@@ -27,11 +27,11 @@
 	</Stable>
 	<Weekly>
  		<sltexx>
-                        <Filename>RR-N-v5.8.4-20170820-sltexx-Weekly.zip</Filename>
+                        <Filename>RR-N-v5.8.4-20170827-sltexx-Weekly.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Weekly Update Cycle"
-                                description="Download latest ResurrectionRemix Weekly build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/Weekly/RR-N-v5.8.4-20170820-sltexx-Weekly.zip/download</RomUrl>
+                                description="Download latest ResurrectionRemix Weekly build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/Weekly/RR-N-v5.8.4-20170827-sltexx-Weekly.zip/download</RomUrl>
  			<ChangelogUrl
  				id="changelog"
  				title="Changelog"
