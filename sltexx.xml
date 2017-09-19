@@ -2,11 +2,11 @@
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  	<Stable>
  		<sltexx>
-                        <Filename>RR-N-v5.8.4-20170808-sltexx-Official.zip</Filename>
+                        <Filename>RR-N-v5.8.4-20170919-sltexx-Official.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Official Update Cycle"
-                                description="Download latest ResurrectionRemix Official build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/Official/RR-N-v5.8.4-20170808-sltexx-Official.zip/download</RomUrl>
+                                description="Download latest ResurrectionRemix Official build">https://sourceforge.net/projects/resurrectionremix/files/sltexx/Official/RR-N-v5.8.4-20170919-sltexx-Official.zip/download</RomUrl>
  			<ChangelogUrl
  				id="changelog"
  				title="Changelog"
